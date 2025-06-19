@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+.git/
+*.min.js
+coverage/
+.env
+.env.local
+.env.*.local 
